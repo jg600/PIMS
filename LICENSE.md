@@ -1,5 +1,4 @@
-A copy of this license is available at http://creativecommons.org/licenses/by-sa/4.0/legalcode
-A human-readable version is available at http://creativecommons.org/licenses/by-sa/4.0/
+A copy of this license is available at http://creativecommons.org/licenses/by-sa/4.0/legalcode and a human-readable version is available at http://creativecommons.org/licenses/by-sa/4.0/
 
 Creative Commons Attribution-ShareAlike 4.0 International Public License
 
